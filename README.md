@@ -1,2 +1,2 @@
 # ex
-overly general LL(1) parser because... yes. 
+overly general LL(1) analiser because... yes. 
